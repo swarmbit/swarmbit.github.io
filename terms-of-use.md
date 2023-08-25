@@ -1,3 +1,8 @@
+---
+layout: default
+title: Terms of Use
+---
+
 **TERMS AND CONDITIONS FOR Spacemesh Rewards Tracker**
 
 ---
