@@ -1,3 +1,7 @@
+---
+layout: default
+title: Privacy Policy
+---
 ### Privacy Policy for Spacemesh Rewards Tracker
 
 **25/08/2023**
