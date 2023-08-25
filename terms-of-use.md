@@ -33,8 +33,6 @@ b. The App is delivered "AS IS" without any warranties, express or implied, incl
 
 c. Swarmbit, along with its affiliates, agents, directors, employees, suppliers, or licensors, shall in no event be liable for any damages, losses, or liabilities, including but not limited to direct, indirect, punitive, incidental, special, consequential, or exemplary damages arising out of or in connection with the use of, or inability to use, this App.
 
-d. Specifically, in no circumstance shall Swarmbit be liable to pay any damages, whether monetary or otherwise, for any incorrect data served by the App.
-
 ---
 
 **5. Modifications and Updates:**
