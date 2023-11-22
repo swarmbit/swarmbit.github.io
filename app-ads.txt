@@ -1,2 +1,4 @@
+appodeal.com, 234620, DIRECT
+bidmachine.io, 234620, DIRECT
 google.com, pub-2692696464595877, DIRECT, f08c47fec0942fa0
 facebook.com, 641684184716181, DIRECT, c3e20eee3f780d68
