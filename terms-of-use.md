@@ -77,6 +77,8 @@ b. In consideration for Swarmbit granting you access to and use of the App, you 
 
 c. The App may integrate third-party advertisement serving technologies which collect information for ad targeting and measurement. This may include information such as the number of views, clicks, and interactions with these advertisements. The collection and use of this information will be in accordance with the privacy policies of the respective third-party providers.
 
-d. Swarmbit does not endorse any products, services, or companies displayed in the advertisements in the App.
+d. The App integrates appodeal ads. Appodeal ads might collect IP address and device id information. Please check  [Appodeal privacy policy](https://appodeal.com/privacy-policy/).
+
+e. Swarmbit does not endorse any products, services, or companies displayed in the advertisements in the App.
 
 ---
